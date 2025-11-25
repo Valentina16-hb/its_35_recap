@@ -16,3 +16,9 @@ come si scrive in grassetto e in corsivo:
 
 come si fa il sottolineato:
 <u>ciao ciao ciao</u>
+
+## Opearzioni sul codice
+come scrivere contenitori di codice sorgente 
+per fare il back tic fare: ALT+9+6
+
+
