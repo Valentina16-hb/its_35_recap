@@ -9,7 +9,16 @@ Se clicco su (Ctrl + Maiusc + V) vedo l'anteprima
 ## Liste
 Queste sono le liste non ordinate.
 
--biscotti
--latte 
--crepes 
+- biscotti
+- latte 
+-  crepes 
     -latte 200gr 
+
+Questi sono gli elenchi ordinati
+1. Acqua 
+2. Vino
+3. Dolce
+    - farina
+    - sale
+    - cioccolato
+    
